@@ -7,7 +7,12 @@ var config = {
         "温柔体贴 活泼可爱 心地善良的你",  // 同上...
         "17岁的生日",
         "愿平安喜乐、万事顺意！",
-        
+        "祝你",
+        "历经山河",
+        "依然觉得人生值得",
+        "愿你",
+        "往后余生",
+        "水远山长安适如常",
     ],
     /**
      * imgs 可以不填, 但是如果要填写的话必须遵循下面的格式
@@ -26,7 +31,7 @@ var config = {
     desc: {
         turn_on: "开始",
         play: "音乐",
-        bannar_coming: "颜色",
+        bannar_coming: "旗子？",
         balloons_flying: "好像少点东西",
         cake_fadein: "蛋糕？",
         light_candle: "蜡烛？",
